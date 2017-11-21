@@ -1,4 +1,4 @@
-## For more information and live demo: [Gunbot GUI](https://gunthygui.com)
-![](https://gunthygui.com/img/macbook-pro.png)
-### Looking to download? [Releases](https://github.com/Sjakil/gunthy-gui/releases)
-### Have a question? [Wiki](https://github.com/Sjakil/gunthy-gui/wiki)
+## Name change
+We have a new name: Zeno GUI
+Please check out our new repository:
+https://github.com/zenocrypto/zeno-gui
