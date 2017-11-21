@@ -1,4 +1,5 @@
 ## Name change
-We have a new name: Zeno GUI
+We have a new name: 
 
-### Please check out our new repository: https://github.com/zenocrypto/zeno-gui
+### Zeno GUI
+Please check out our new repository: https://github.com/zenocrypto/zeno-gui
