@@ -1,4 +1,3 @@
-## Name change
 We have a new name: 
 
 ### Zeno GUI
